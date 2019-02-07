@@ -1,0 +1,22 @@
+H:\CSCI106 Int Pro2\Connect4\CN4\CN4\bin\Debug\CN4.exe.config
+H:\CSCI106 Int Pro2\Connect4\CN4\CN4\bin\Debug\CN4.exe
+H:\CSCI106 Int Pro2\Connect4\CN4\CN4\bin\Debug\CN4.pdb
+H:\CSCI106 Int Pro2\Connect4\CN4\CN4\obj\Debug\CN4.csprojAssemblyReference.cache
+H:\CSCI106 Int Pro2\Connect4\CN4\CN4\obj\Debug\CN4.Form1.resources
+H:\CSCI106 Int Pro2\Connect4\CN4\CN4\obj\Debug\CN4.Properties.Resources.resources
+H:\CSCI106 Int Pro2\Connect4\CN4\CN4\obj\Debug\CN4.csproj.GenerateResource.cache
+H:\CSCI106 Int Pro2\Connect4\CN4\CN4\obj\Debug\CN4.csproj.CoreCompileInputs.cache
+H:\CSCI106 Int Pro2\Connect4\CN4\CN4\obj\Debug\CN4.exe
+H:\CSCI106 Int Pro2\Connect4\CN4\CN4\obj\Debug\CN4.pdb
+H:\CSCI106 Int Pro2\Connect4\CN4\CN4\obj\Debug\CN4.Form2.resources
+E:\Connect4\CN4\CN4\bin\Debug\CN4.exe.config
+E:\Connect4\CN4\CN4\bin\Debug\CN4.exe
+E:\Connect4\CN4\CN4\bin\Debug\CN4.pdb
+E:\Connect4\CN4\CN4\obj\Debug\CN4.csprojAssemblyReference.cache
+E:\Connect4\CN4\CN4\obj\Debug\CN4.Form1.resources
+E:\Connect4\CN4\CN4\obj\Debug\CN4.Form2.resources
+E:\Connect4\CN4\CN4\obj\Debug\CN4.Properties.Resources.resources
+E:\Connect4\CN4\CN4\obj\Debug\CN4.csproj.GenerateResource.cache
+E:\Connect4\CN4\CN4\obj\Debug\CN4.csproj.CoreCompileInputs.cache
+E:\Connect4\CN4\CN4\obj\Debug\CN4.exe
+E:\Connect4\CN4\CN4\obj\Debug\CN4.pdb
